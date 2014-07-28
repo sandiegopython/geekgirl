@@ -15,6 +15,12 @@ You can view each of the files online using `nbviewer`_.
 * `part-3.ipynb`_: defining functions and using modules
 
 
+Videos
+------
+
+This workshop was recorded and is available on `our YouTube channel`_.
+
+
 Giving the talk
 ---------------
 
@@ -50,3 +56,4 @@ This workshop is licensed under the GNU General Public License v2.  See LICENSE 
 .. _part-1.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/part-1.ipynb
 .. _part-2.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/part-2.ipynb
 .. _part-3.ipynb: http://nbviewer.ipython.org/github/pythonsd/geekgirl/blob/master/part-3.ipynb
+.. _our YouTube channel: https://www.youtube.com/watch?v=XC4oDa-NK_c&list=PLxKJbHiP1loYZfu5SoDDdZF3oyRLFt7rk
